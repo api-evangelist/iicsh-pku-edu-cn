@@ -1,0 +1,27 @@
+aid: peking-university-international-sci-tech-innovation-center-at-lin-gang-special-area-china-shanghai-pilot-free-trade-zone-pku-iicsh
+name: Peking University International Sci-Tech Innovation Center at Lin-gang Special Area, China (Shanghai)
+  Pilot Free Trade Zone (PKU-IICSH)
+description: 'Peking University International Sci-Tech Innovation Center at Lin-gang Special Area, China
+  (Shanghai) Pilot Free Trade Zone (PKU-IICSH) is a company surfaced via the API Evangelist harvest backlog
+  (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.'
+url: https://artifacts.apis.io/peking-university-international-sci-tech-innovation-center-at-lin-gang-special-area-china-shanghai-pilot-free-trade-zone-pku-iicsh/apis.yml
+x-type: company
+x-source: harvest:vc-portfolio
+x-tier: stub
+x-tier-reason: harvest
+specificationVersion: '0.20'
+created: '2026-10-29'
+modified: '2026-10-29'
+tags:
+- Company
+apis: []
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com
+- FN: APIs.json
+  email: info@apis.io
+x-backed-by:
+- null
+common:
+- type: Website
+  url: https://iicsh.pku.edu.cn/
