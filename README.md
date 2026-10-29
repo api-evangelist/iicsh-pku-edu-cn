@@ -70,11 +70,11 @@ The Peking University International Sci‑Tech Innovation Center (PKU‑IICSH) l
 
 ## Peking University International Sci-Tech Innovation Center at Lin-gang Special Area, China (Shanghai) Pilot Free Trade Zone (PKU-IICSH) on APIs.io
 
-Everything profiled for Peking University International Sci-Tech Innovation Center at Lin-gang Special Area, China (Shanghai) Pilot Free Trade Zone (PKU-IICSH) is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/peking-university-international-sci-tech-innovation-center-at-lin-gang-special-area-china-shanghai-pilot-free-trade-zone-pku-iicsh/](https://apis.io/providers/peking-university-international-sci-tech-innovation-center-at-lin-gang-special-area-china-shanghai-pilot-free-trade-zone-pku-iicsh/)** — or go straight to one of the APIs or properties below.
+Everything profiled for Peking University International Sci-Tech Innovation Center at Lin-gang Special Area, China (Shanghai) Pilot Free Trade Zone (PKU-IICSH) is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/iicsh-pku-edu-cn/](https://apis.io/providers/iicsh-pku-edu-cn/)** — or go straight to one of the APIs or properties below.
 
 ### APIs (1)
 
-- [PKU IICSH Developer Portal](https://apis.io/apis/peking-university-international-sci-tech-innovation-center-at-lin-gang-special-area-china-shanghai-pilot-free-trade-zone-pku-iicsh/pku-iicsh-developer-portal/) — Developer portal for PKU IICSH (access requires authentication via PKU SSO).
+- [PKU IICSH Developer Portal](https://apis.io/apis/iicsh-pku-edu-cn/pku-iicsh-developer-portal/) — Developer portal for PKU IICSH (access requires authentication via PKU SSO).
 
 ### Published properties
 
@@ -84,26 +84,26 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Peking University International Sci Tech Innovation Center At Lin Gang Special Area China Shanghai Pilot Free Trade Zone Pku Iicsh Authentication](https://apis.io/security/peking-university-international-sci-tech-innovation-center-at-lin-gang-special-area-china-shanghai-pilot-free-trade-zone-pku-iicsh/peking-university-international-sci-tech-innovation-center-at-lin-gang-special-area-china-shanghai-pilot-free-trade-zone-pku-iicsh-authentication/)
-- [Peking University International Sci Tech Innovation Center At Lin Gang Special Area China Shanghai Pilot Free Trade Zone Pku Iicsh Domain Security](https://apis.io/security/peking-university-international-sci-tech-innovation-center-at-lin-gang-special-area-china-shanghai-pilot-free-trade-zone-pku-iicsh/peking-university-international-sci-tech-innovation-center-at-lin-gang-special-area-china-shanghai-pilot-free-trade-zone-pku-iicsh-domain-security/)
+- [Peking University International Sci Tech Innovation Center At Lin Gang Special Area China Shanghai Pilot Free Trade Zone Pku Iicsh Authentication](https://apis.io/security/iicsh-pku-edu-cn/iicsh-pku-edu-cn-authentication/)
+- [Peking University International Sci Tech Innovation Center At Lin Gang Special Area China Shanghai Pilot Free Trade Zone Pku Iicsh Domain Security](https://apis.io/security/iicsh-pku-edu-cn/iicsh-pku-edu-cn-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Peking University International Sci Tech Innovation Center At Lin Gang Special Area China Shanghai Pilot Free Trade Zone Pku Iicsh Scopes](https://apis.io/scopes/peking-university-international-sci-tech-innovation-center-at-lin-gang-special-area-china-shanghai-pilot-free-trade-zone-pku-iicsh/peking-university-international-sci-tech-innovation-center-at-lin-gang-special-area-china-shanghai-pilot-free-trade-zone-pku-iicsh-scopes/)
+- [Peking University International Sci Tech Innovation Center At Lin Gang Special Area China Shanghai Pilot Free Trade Zone Pku Iicsh Scopes](https://apis.io/scopes/iicsh-pku-edu-cn/iicsh-pku-edu-cn-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Peking University International Sci Tech Innovation Center At Lin Gang Special Area China Shanghai Pilot Free Trade Zone Pku Iicsh Plans Pricing](https://apis.io/plans/peking-university-international-sci-tech-innovation-center-at-lin-gang-special-area-china-shanghai-pilot-free-trade-zone-pku-iicsh/peking-university-international-sci-tech-innovation-center-at-lin-gang-special-area-china-shanghai-pilot-free-trade-zone-pku-iicsh-plans-pricing/)
+- [Peking University International Sci Tech Innovation Center At Lin Gang Special Area China Shanghai Pilot Free Trade Zone Pku Iicsh Plans Pricing](https://apis.io/plans/iicsh-pku-edu-cn/iicsh-pku-edu-cn-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Peking University International Sci Tech Innovation Center At Lin Gang Special Area China Shanghai Pilot Free Trade Zone Pku Iicsh Rate Limits](https://apis.io/rate-limits/peking-university-international-sci-tech-innovation-center-at-lin-gang-special-area-china-shanghai-pilot-free-trade-zone-pku-iicsh/peking-university-international-sci-tech-innovation-center-at-lin-gang-special-area-china-shanghai-pilot-free-trade-zone-pku-iicsh-rate-limits/)
+- [Peking University International Sci Tech Innovation Center At Lin Gang Special Area China Shanghai Pilot Free Trade Zone Pku Iicsh Rate Limits](https://apis.io/rate-limits/iicsh-pku-edu-cn/iicsh-pku-edu-cn-rate-limits/)
 
 ## Where to find this API
 
@@ -152,7 +152,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 **Regulatory alignment 15.7** — Education & Research
 
-The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/peking-university-international-sci-tech-innovation-center-at-lin-gang-special-area-china-shanghai-pilot-free-trade-zone-pku-iicsh/](https://apis.io/providers/peking-university-international-sci-tech-innovation-center-at-lin-gang-special-area-china-shanghai-pilot-free-trade-zone-pku-iicsh/).
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/iicsh-pku-edu-cn/](https://apis.io/providers/iicsh-pku-edu-cn/).
 
 ## How this profile is made
 
@@ -162,6 +162,6 @@ The artifacts are published on [APIs.io](https://apis.io), not in this repositor
 
 ## Open an issue
 
-- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/peking-university-international-sci-tech-innovation-center-at-lin-gang-special-area-china-shanghai-pilot-free-trade-zone-pku-iicsh/issues/new).
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/iicsh-pku-edu-cn/issues/new).
 - **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
 - **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
