@@ -84,26 +84,26 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Peking University International Sci Tech Innovation Center At Lin Gang Special Area China Shanghai Pilot Free Trade Zone Pku Iicsh Authentication](https://apis.io/security/iicsh-pku-edu-cn/iicsh-pku-edu-cn-authentication/)
-- [Peking University International Sci Tech Innovation Center At Lin Gang Special Area China Shanghai Pilot Free Trade Zone Pku Iicsh Domain Security](https://apis.io/security/iicsh-pku-edu-cn/iicsh-pku-edu-cn-domain-security/)
+- [Iicsh Pku Edu Cn Authentication](https://apis.io/security/iicsh-pku-edu-cn/iicsh-pku-edu-cn-authentication/)
+- [Iicsh Pku Edu Cn Domain Security](https://apis.io/security/iicsh-pku-edu-cn/iicsh-pku-edu-cn-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Peking University International Sci Tech Innovation Center At Lin Gang Special Area China Shanghai Pilot Free Trade Zone Pku Iicsh Scopes](https://apis.io/scopes/iicsh-pku-edu-cn/iicsh-pku-edu-cn-scopes/)
+- [Iicsh Pku Edu Cn Scopes](https://apis.io/scopes/iicsh-pku-edu-cn/iicsh-pku-edu-cn-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Peking University International Sci Tech Innovation Center At Lin Gang Special Area China Shanghai Pilot Free Trade Zone Pku Iicsh Plans Pricing](https://apis.io/plans/iicsh-pku-edu-cn/iicsh-pku-edu-cn-plans-pricing/)
+- [Iicsh Pku Edu Cn Plans Pricing](https://apis.io/plans/iicsh-pku-edu-cn/iicsh-pku-edu-cn-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Peking University International Sci Tech Innovation Center At Lin Gang Special Area China Shanghai Pilot Free Trade Zone Pku Iicsh Rate Limits](https://apis.io/rate-limits/iicsh-pku-edu-cn/iicsh-pku-edu-cn-rate-limits/)
+- [Iicsh Pku Edu Cn Rate Limits](https://apis.io/rate-limits/iicsh-pku-edu-cn/iicsh-pku-edu-cn-rate-limits/)
 
 ## Where to find this API
 
@@ -113,7 +113,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 6.6** — minimal · rubric 0.25.0 · scored 2026-10-29
+**Kin Score 6.6** — minimal · rubric 0.25.0 · scored 2026-10-30
 
 | Facet | Score |
 |---|---|
